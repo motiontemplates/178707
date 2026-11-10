@@ -4,7 +4,7 @@
 
 模板与完整下载: https://motiongit.com/@adunext/break-boundaries
 版本: 0.1.1-alpha.2
-Demo 已公开，模板下载即将开放。
+Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料
 

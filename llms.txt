@@ -2,7 +2,7 @@
 
 Template and full package: https://motiongit.com/@adunext/break-boundaries
 Version: 0.1.1-alpha.2
-Demo available; template download coming soon.
+Demo available. Check the official page for current download availability.
 
 Declared runtime profile: native-python-node/1.
 Editable inputs are mapped through the template parameter schema and preset to its existing animation project.

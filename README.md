@@ -11,7 +11,7 @@ Motion templates now support asset APIs for background music, stickers, images a
 **[Download .motion from MotionGit](https://motiongit.com/@adunext/break-boundaries)**
 https://motiongit.com/@adunext/break-boundaries
 
-Demo available; template download coming soon.
+Demo available. Check the official page for current download availability.
 
 ## Demo
 
